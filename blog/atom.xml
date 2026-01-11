@@ -2,11 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://chuangyc.github.io/blog</id>
     <title>My Site Blog</title>
-    <updated>2021-08-26T00:00:00.000Z</updated>
+    <updated>2026-01-11T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://chuangyc.github.io/blog"/>
     <subtitle>My Site Blog</subtitle>
     <icon>https://chuangyc.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[My First Blog Post]]></title>
+        <id>https://chuangyc.github.io/blog/my-first-post</id>
+        <link href="https://chuangyc.github.io/blog/my-first-post"/>
+        <updated>2026-01-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello world 👋]]></summary>
+        <content type="html"><![CDATA[<p>Hello world 👋</p>
+<p>This is my first post on <strong>chuangyc.github.io</strong>.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="why-i-built-this-blog">Why I built this blog<a href="https://chuangyc.github.io/blog/my-first-post#why-i-built-this-blog" class="hash-link" aria-label="Direct link to Why I built this blog" title="Direct link to Why I built this blog" translate="no">​</a></h2>
+<ul>
+<li class="">Personal notes</li>
+<li class="">Tech experiments</li>
+<li class="">Learning in public</li>
+</ul>
+<p>See you in the next post 🚀</p>]]></content>
+        <author>
+            <name>Chuang YC</name>
+            <uri>https://github.com/chuangyc</uri>
+        </author>
+        <category label="blog" term="blog"/>
+        <category label="Docusaurus" term="Docusaurus"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://chuangyc.github.io/blog/welcome</id>

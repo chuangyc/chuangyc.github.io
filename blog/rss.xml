@@ -4,10 +4,28 @@
         <title>My Site Blog</title>
         <link>https://chuangyc.github.io/blog</link>
         <description>My Site Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Jan 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[My First Blog Post]]></title>
+            <link>https://chuangyc.github.io/blog/my-first-post</link>
+            <guid>https://chuangyc.github.io/blog/my-first-post</guid>
+            <pubDate>Sun, 11 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hello world 👋]]></description>
+            <content:encoded><![CDATA[<p>Hello world 👋</p>
+<p>This is my first post on <strong>chuangyc.github.io</strong>.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="why-i-built-this-blog">Why I built this blog<a href="https://chuangyc.github.io/blog/my-first-post#why-i-built-this-blog" class="hash-link" aria-label="Direct link to Why I built this blog" title="Direct link to Why I built this blog" translate="no">​</a></h2>
+<ul>
+<li class="">Personal notes</li>
+<li class="">Tech experiments</li>
+<li class="">Learning in public</li>
+</ul>
+<p>See you in the next post 🚀</p>]]></content:encoded>
+            <category>blog</category>
+            <category>Docusaurus</category>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://chuangyc.github.io/blog/welcome</link>
