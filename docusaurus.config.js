@@ -93,7 +93,6 @@ const config = {
           {to: '/blog', label: 'Blog', position: 'left'},
           {to: '/blog/tags', label: 'Topics', position: 'left'},
           {to: '/blog/archive', label: 'Archive', position: 'left'},
-          {to: '/about', label: 'About', position: 'left'},
           {to: '/now', label: 'Now', position: 'left'},
           {
             href: 'https://github.com/chuangyc',
@@ -108,10 +107,6 @@ const config = {
           {
             title: 'Me',
             items: [
-              {
-                label: 'About',
-                to: '/about',
-              },
               {
                 label: 'Now',
                 to: '/now',

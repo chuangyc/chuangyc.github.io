@@ -1,5 +1,5 @@
 ---
-title: About Me
+title: Welcome
 description: A little bit about me.
 hide_table_of_contents: true
 ---
